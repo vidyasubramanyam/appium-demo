@@ -1,0 +1,23 @@
+{
+  "name": "jenkins-appium-tests",
+  "version": "1.0.0",
+  "description": "Please refer to the [appium getting started](https://appium.io/docs/en/about-appium/getting-started/?lang=en) to start the new application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asantra1/jenkins-appium-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asantra1/jenkins-appium-tests/issues"
+  },
+  "homepage": "https://github.com/asantra1/jenkins-appium-tests#readme",
+  "dependencies": {
+    "webdriverio": "^7.10.1"
+  }
+}
